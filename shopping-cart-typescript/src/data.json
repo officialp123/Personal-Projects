@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Infinix HOT 30i",
+      "price": 110000,
+      "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/2662032/1.jpg?2444"
+    },
+    {
+      "id": 2,
+      "name": "Infinix Smart 7 Plus",
+      "price": 82000,
+      "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/2883822/1.jpg?5245"
+    },
+    {
+      "id": 3,
+      "name": "Infinix Note 30 Pro",
+      "price": 230000,
+      "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/1233942/1.jpg?6947"
+    },
+    {
+      "id": 4,
+      "name": "Infinix Smart 7 Plus",
+      "price": 80000,
+      "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/0753822/1.jpg?2367"
+    }
+  ],
+  "cartItems": []
+}
