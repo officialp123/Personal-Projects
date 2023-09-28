@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://officialp123.github.io/hellopay/assets/img/top-view-airplane-toy-passport.jpg",
+    "caption": "International Passport",
+    "isVisible": true
+  },
+  {
+    "id": 2,
+    "image": "https://officialp123.github.io/hellopay/assets/img/male-doctor-arms-crossed.jpg",
+    "caption": "A doctor",
+    "isVisible": true
+  },
+  {
+    "id": 3,
+    "image": "https://officialp123.github.io/hellopay/assets/img/business-people-using-their-phones (1).jpg",
+    "caption": "A business man",
+    "isVisible": true
+  },
+  {
+    "id": 4,
+    "image": "https://officialp123.github.io/hellopay/assets/img/confident-black-lady-sitting-showing-off-wad-cash (1).jpg",
+    "caption": "A lady with cash",
+    "isVisible": true
+  },
+  {
+    "id": 5,
+    "image": "https://officialp123.github.io/hellopay/assets/img/front-view-online-shopping-concept.jpg",
+    "caption": "Online shopping",
+    "isVisible": true
+  }
+]
